@@ -157,3 +157,9 @@ docker stop fake-wechat-client
 # 生产和测试不建议直接删除，应该生成新版本的容器
 docker rm fake-wechat-client
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cbtpro/usa-phone-client&type=Date)](https://star-history.com/#cbtpro/usa-phone-client&Date)
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/usa-phone-client/count.svg) visitor
